@@ -44,7 +44,7 @@ export const Avocations = () => {
           <Col>
             <div className="avocations-box" style={boxStyle}>
               <h2>avocations</h2>
-              <p style={{ fontSize: '21px' }}>thank you mom and dad for never letting me give up; for pushing me to be better. <br />i wouldn't be who i am today without both of you.</p>
+              <p style={{ fontSize: '20px' }}>thank you mom and dad</p>
               <h3>music</h3>
               <p> i love music! i began classical training for <b>piano</b> when i was a bit over 3 years old, until the end of high school. 
                 during this time, i competed in and won many local, state, and international level competitions as well as performed recitals. 
@@ -133,7 +133,7 @@ export const Avocations = () => {
               <p></p>
               <h3>gaming</h3>
               <p>during quarantine for covid, i was introduced to valorant. since then, i've grown a liking for various games: <br></br>
-                valorant, fortnite, csgo, overcooked, stardew valley, minecraft, it takes two, pico park, dead by daylight
+                valorant, fortnite, lethal company, overcooked, minecraft, it takes two, pico park, stardew valley, csgo, dead by daylight<br></br>
                 <br></br><br></br>
                 pc specs/accessories: 
               </p>
@@ -155,11 +155,11 @@ export const Avocations = () => {
                     vsco
                 </a>
                 <Dot size={20} />
-                <a href="www.youtube.com/@jessicawu9689" target="_blank" rel="noopener noreferrer">
+                {/* <a href="www.youtube.com/@jessicawu9689" target="_blank" rel="noopener noreferrer">
                     youtube
                 </a>
                 <Dot size={20} />
-                {/* <a href="https://www.instagram.com/jessica.wu/" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.instagram.com/jessica.wu/" target="_blank" rel="noopener noreferrer">
                     instagram
                 </a>
                 <Dot size={20} />

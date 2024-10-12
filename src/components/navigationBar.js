@@ -42,7 +42,7 @@ export const NavBar = () => {
                     {/* socials: linkedin, github, etc */}
                     <span className="navbar-text">
                         <div className="social-icon">
-                            <a href="#"><img src={linkedIn} alt="" /></a>
+                            <a href="https://www.linkedin.com/in/jessica-wu3/"><img src={linkedIn} alt="" /></a>
                         </div>
                         <button className="vvd" onClick={() => console.log('button clicked')}><span>resume</span></button>
                     </span>
