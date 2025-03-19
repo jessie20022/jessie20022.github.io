@@ -131,11 +131,11 @@ export const Avocations = () => {
                 </p>
 
               <p></p>
-              <h3>gaming</h3>
+              <h3>games</h3>
               <p>during quarantine for covid, i was introduced to valorant. since then, i've grown a liking for various games: <br></br>
                 valorant, fortnite, lethal company, overcooked, minecraft, it takes two, pico park, stardew valley, csgo, dead by daylight<br></br>
                 <br></br><br></br>
-                pc specs/accessories: 
+                pc specs/accessories: to come
               </p>
               <h3>socials</h3>
               <p style={{marginBottom: '10px'}}>

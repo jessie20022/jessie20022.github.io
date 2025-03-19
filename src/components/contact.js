@@ -33,7 +33,7 @@ export const Contact = () => {
                         <p></p><br></br><p></p>
                         <p style={{ marginBottom: '-50px', fontSize: '13px' }}>built by Jessica Wu
                             <br></br>
-                            last updated August 10, 2024
+                            last updated march 18, 2025
                         </p>
                         
                     </Col>

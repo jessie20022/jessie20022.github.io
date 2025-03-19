@@ -44,7 +44,12 @@ export const NavBar = () => {
                         <div className="social-icon">
                             <a href="https://www.linkedin.com/in/jessica-wu3/"><img src={linkedIn} alt="" /></a>
                         </div>
-                        <button className="vvd" onClick={() => console.log('button clicked')}><span>resume</span></button>
+                        <button
+                            className="vvd"
+                            onClick={() => window.open('/Jessica%20Wu%20Resume%202025.pdf', '_blank')}
+                        >
+                            <span>resume</span>
+                        </button>
                     </span>
                 </Navbar.Collapse>
             </Container>
